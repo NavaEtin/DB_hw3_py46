@@ -16,7 +16,7 @@ select track_title, track_duration from track
 where track_duration > 3.5;
 
 select collection_name from collection
-where collection_year > 2018 and collection_year < 2020;
+where collection_year >= 2018 and collection_year =< 2020;
 
 select singer_name from singer
 where not singer_name like '% %';
