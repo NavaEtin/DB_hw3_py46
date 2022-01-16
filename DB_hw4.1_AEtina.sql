@@ -21,14 +21,14 @@ values
 
 insert into collection (collection_id, collection_name, collection_year)
 values 
-	(1, 'Rock it', 2015),
+	(1, 'Rock it', 2018),
 	(2, 'British', 2015),
 	(3, 'Dance', 2013),
 	(4, 'Mix 2000th', 2016),
 	(5, 'Romantic', 2017),
 	(6, 'Counrty-Village', 2010),
 	(7, 'Girls Power', 2016),
-	(8, 'Boys Power', 2017);
+	(8, 'Boys Power', 2020);
 	
 insert into album (album_id, album_name, album_year)
 values 
@@ -38,7 +38,7 @@ values
 	(4, 'Songbird', 1998),
 	(5, 'In vino veritas', 2014),
 	(6, 'Girl on fire', 2012),
-	(7, 'The Dreams we have as  Children', 2014),
+	(7, 'The Dreams we have as  Children', 2018),
 	(8, 'The brst of Alan Price', 1984);
 
 insert into track (track_id, track_title, track_duration, album_id)
