@@ -34,7 +34,7 @@ insert into album (album_id, album_name, album_year)
 values 
 	(1, 'Continum', 2006),
 	(2, 'Mind, Body & Soul', 2020),
-	(3, 'Under the iron sea', 2006),
+	(3, 'Under the iron sea', 2019),
 	(4, 'Songbird', 1998),
 	(5, 'In vino veritas', 2014),
 	(6, 'Girl on fire', 2012),
